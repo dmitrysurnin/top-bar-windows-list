@@ -1,0 +1,8 @@
+{
+  "name": "Top Bar Windows List",
+  "description": "Place opened windows icons on top bar. You can click them to activate window.",
+  "uuid": "top-bar-windows-list@dmitrysurnin.gmail.com",
+  "shell-version": [
+    "44"
+  ]
+}
