@@ -1,5 +1,5 @@
 # top-bar-windows-list
-GNOME extension for Ubuntu. Place opened windows icons on top bar. You can click them to activate window.
+GNOME extension for Ubuntu. Places the icons of all open windows icons in the top bar. You can click on them to activate the window.
 
 Tob Bar view:
 
